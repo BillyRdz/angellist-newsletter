@@ -1,0 +1,81 @@
+.html,
+body,
+.body {
+  background: #f0f2f6;
+  background-color: #f0f2f6;
+}
+center {
+  background: #f0f2f6;
+  background-color: #f0f2f6;
+}
+
+// START OF HEADER
+// START OF HEADER
+.header {
+  background: #f0f2f6;
+  background-color: #f0f2f6;
+}
+// END OF HEADER
+// END OF HEADER
+
+// START OF BODY
+// START OF BODY
+
+.top {
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 14px;
+  a {
+    color: #3d6bff;
+    text-decoration: underline;
+  }
+}
+
+.main {
+  a {
+    color: #3d6bff;
+    text-decoration: underline;
+  }
+
+  li {
+    padding-bottom: 5px;
+  }
+
+  .btn-blue > tbody > tr > td > table > tbody > tr > td > center > a {
+    background-color: #3d6bff;
+    background: #3d6bff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 300;
+  }
+}
+.jobs {
+  a {
+    color: #3d6bff;
+    text-decoration: underline;
+  }
+}
+
+// END OF BODY
+// END OF BODY
+// START OF FOOTER
+// START OF FOOTER
+
+.footer {
+  background: #f0f2f6;
+  background-color: #f0f2f6;
+  p {
+    font-size: 12px;
+    color: #70757c;
+  }
+  a {
+    color: #70757c;
+    text-decoration: underline;
+  }
+}
+// END OF FOOTER
+// END OF FOOTER
+
+.center-tag {
+  min-width: auto !important;
+}
